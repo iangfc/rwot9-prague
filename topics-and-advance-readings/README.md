@@ -133,6 +133,11 @@ really, read as much as you can!)
    * "Introducing the Firefly Trust Sync (Firefly) architecture as a decentralized, web-of-trust alternative to address the shortcomings of the Certificate Authority (CA) based Public Key Infrastructure (CA-based PKI) and the Pretty Good Privacy (PGP) web-of-trust. Self sovereign identity is a cornerstone of this architecture and yet it does not rely whatsoever on distributed ledger technology. Essential design elements are presented with initial thoughts on both advantages and disadvantages of this approach as well as some next steps."
    * #firefly #web-of-trust
    
+* [Why we must ask the Why of Identity](ask-why.md)
+   * by Ian Grigg
+   * "To avoid repeating the mistakes of the past, it is necessary to ask WHY. In proposing 4 schools of thought on identity, my goal was to _exclude_ those schools because we want to exclude their fatal mistakes. Out of this analysis of WHY they failed, only the notion of a person's identity found within her community of peers remains standing."
+   * #community #relationships #IdentityIsAnEdgeProtocol
+   
 ## Alphabetical Listing
 
 * [A DID based solution for verifiable data streaming & processing in cyber-physical systems](./A_DID_based_solution_for_data_processing.md) - Carsten Stöcker, Alexander Yenkalow, Juan Caballero
@@ -150,4 +155,5 @@ really, read as much as you can!)
 * [Preventing Transferability with ZKP-based Credentials](https://github.com/dhh1128/rwot9-prague/blob/master/topics-and-advance-readings/zkp-safety.md)
 * [Rubrics for Decentralization of DID Methods Creative Brief](https://github.com/WebOfTrustInfo/rwot9-prague/blob/master/topics-and-advance-readings/rubrics.md)
 * [Secure Data Hubs: Encrypted Storage for the Web](./secure-data-hubs.md)
+* [Why we must ask the Why of Identity](ask-why.md) - Ian Grigg
 
